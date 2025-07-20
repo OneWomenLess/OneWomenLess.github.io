@@ -17,6 +17,8 @@ You can help this project by:
   
 - proposing a solution in the [Solutions](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/solutions) directory
 
+- exploring and expanding on drafted [solutions](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/solutions) and options of [getting help]({% link get-help.md %}).
+
 - helping with the graphics / web ui
 
 - giving legal advice regarding human rights
