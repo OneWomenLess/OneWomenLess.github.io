@@ -8,10 +8,6 @@ Here we document the process of leaving and vouch for non-discrimination and oth
 
 `#digital-dignity` `#coding-with-dignity`
 
-(\*) [https://opensourcesurvey.org/2017/](https://opensourcesurvey.org/2017/) (data on demographics, conflicts, foss consumption) \
-(\*\*) [https://survey.stackoverflow.co/2017#demographics](https://survey.stackoverflow.co/2017#demographics) \
-(\*\*\*) [https://en.wikipedia.org/wiki/Diversity_in_open-source_software#Diversity](https://en.wikipedia.org/wiki/Diversity_in_open-source_software#Diversity)
-
 
 ### Contributing
 
@@ -32,3 +28,9 @@ You can help this project by:
 - providing feedback
 
 Please reach out in the [matrix room](https://matrix.to/#/#human-rights-in-foss:matrix.org) or by contacting [@mariha](https://github.com/mariha) directly.
+
+---
+
+(\*) [https://opensourcesurvey.org/2017/](https://opensourcesurvey.org/2017/) (data on demographics, conflicts, foss consumption) \
+(\*\*) [https://survey.stackoverflow.co/2017#demographics](https://survey.stackoverflow.co/2017#demographics) \
+(\*\*\*) [https://en.wikipedia.org/wiki/Diversity_in_open-source_software#Diversity](https://en.wikipedia.org/wiki/Diversity_in_open-source_software#Diversity)
