@@ -1,0 +1,1 @@
+the book [Hacking Diversity: The Politics of Inclusion in Open Technology Cultures](https://press.princeton.edu/books/hardcover/9780691182070/hacking-diversity) by Christina Dunbar-Hester is worth checking out for the ideas.
