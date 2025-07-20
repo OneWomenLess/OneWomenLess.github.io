@@ -1,7 +1,7 @@
 
 Read the [Open letter]({% link open-letter.md %})
 
-Women make up about half of the society, yet in free software projects, which develop and maintain digital infrastructure for all of us, they represent only 3% of the contributors(\*), compared to 7-23% in the professional computer programming field [global(\*\*)-US(\*\*\*) data]. We believe it is because they are not always being treated fairly in the space and eventually leave.
+Women make up about half of the society, yet in free software projects, which develop and maintain digital infrastructure for all of us, they represent only 3% of the contributors(\*), compared to 7-23% in the professional computer programming field [global(\*\*)-US(\*\*\*) data]. We believe it is because they are not always being treated fairly in the environment and eventually leave.
 
 Here we document the process of leaving and advocate for non-discrimination and other human rights protection (like to have a fair trial), in the digital space of free software communities.
 
@@ -26,6 +26,8 @@ You can help this project by:
 - forwarding to others who have a story to tell or may be interested in helping in other ways
 
 - donating to [Majstrownia makerspace](https://opencollective.com/majstrownia/projects/digital-commons) to make a budget for the project future spendings, or [buing a coffee](https://liberapay.com/mariha) for [@mariha](https://github.com/mariha)
+
+- rephrasing website content into proper English
 
 - providing feedback
 
