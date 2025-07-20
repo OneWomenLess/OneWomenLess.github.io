@@ -4,14 +4,18 @@ Where to report an issue? What type of an issue is it?
 
 How to name the issue? A dictionary of common issues (connected to tags in the testimonials?)
 
+A mediation? \
+  Consider hiring a mediator. \
+  Consider asking someone from the community to mediate.
+
 Get legal advice?
 
 Mutual aid support groups?
 
 Consider getting professional emotional support.
 
-A mediation? \
-  Consider hiring a mediator. \
-  Consider asking someone from the community to mediate.
+Consider leaving the project.
+
+Consider other professions.
 
 Other resources?
