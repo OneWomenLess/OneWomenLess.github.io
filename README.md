@@ -1,5 +1,5 @@
 
-You may want to read our [Open letter]({% link open-letter.md %}) to the [Council of Europe Commissioner for Human Rights](https://www.coe.int/en/web/commissioner/the-commissioner/mandate)
+You may want to read our [Open letter]({% link open-letter.md %}) to the [Council of Europe Commissioner for Human Rights](https://www.coe.int/en/web/commissioner/the-commissioner/mandate).
 
 Women make up about half of the society, yet in free software projects, where digital infrastructure and everyday tools for all of us are made, they represent only 3% of the contributors(\*), compared to 7-23% in the industry [global(\*\*)-US(\*\*\*) data]. We believe, on top of the other economical and social inequalities that limit access to the space, it is because they are not always being treated fairly in the environment, especially when a project faces a conflict - and they leave, as a means of self-protection. Objecting the process has been observed to result in being forced out from the project.
 
