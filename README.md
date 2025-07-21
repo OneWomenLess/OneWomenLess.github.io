@@ -18,9 +18,8 @@ You can help this project by:
 
 - adding your testimonial to the [Personal stories](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/personal-stories) directory \
 (with a pull request or by sending us a file to be uploaded anonymously)
-
-- adding the project(s) that made you leave to the [Wall of shame](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/wall-of-shame) directory \
-(an empty file named after the project is enough, we'll make you an owner of that file)
+   - consider also adding the project(s) that made you leave to the [Wall of shame](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/wall-of-shame) directory \
+   (an empty file named after the project would be enough, we'll make you an owner of that file)
 
 - forwarding to others who have a story to tell or may be interested otherwise
 
