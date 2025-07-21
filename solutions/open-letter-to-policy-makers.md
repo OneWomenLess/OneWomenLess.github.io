@@ -1,0 +1,1 @@
+In the Council of Europe there is a [Commissioner for Human Rights](https://en.m.wikipedia.org/wiki/Commissioner_for_Human_Rights) who seems to be the right place to address [the letter]({% link open-letter.md %}) to.
