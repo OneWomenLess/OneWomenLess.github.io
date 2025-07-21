@@ -3,9 +3,9 @@ Read the [Open letter]({% link open-letter.md %}).
 
 Women make up about half of the society, yet in free software projects, where digital infrastructure and tools for all of us is being made, they represent only 3% of the contributors(\*), compared to 7-23% in the industry [global(\*\*)-US(\*\*\*) data]. We believe it is, on top of the other economical and social inequalities that limit their access to the space, because they are not always being treated fairly in the environment, especially in the face of a conflict - and leave.
 
-Here we document the [process of leaving](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/personal-stories) and advocate for [non-discrimination and fair conflicts resolution](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/solutions), acknowledging everyones inalienable rights and needs as a human being, in the digital space of free software communities.
+Here we **[document](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/personal-stories) the process of leaving** and **[advocate](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/solutions)for non-discrimination and fair conflicts resolution**, acknowledging everyones inalienable rights and needs as a human being, in the digital space of free software communities.
 
-We also collect and provide some [basic resources]({% link get-help.md %}) for individuals who are currently or recently experienced mobbing.
+We also **[collect and provide]({% link get-help.md %}) some basic resources** for individuals who are currently or recently experienced **mobbing**.
 
 We believe it is the only way for the humanity where woman are valued equally to man, and everyone in between.
 
