@@ -1,6 +1,6 @@
 You may want to read our [Open Letter]({% link open-letter.md %}).
 
-Women make up about half of the society, they are essential vector of a culture ever since, yet in free software projects, where digital infrastructure and common tools for all of us are designed and built\*, they represent only 3% of the contributors\*, in comparison to 7-23% in the industry [global\*\*-US\*\*\* data]. We believe, on top of other economical and social inequalities that limit women's participation in the space, it is because they are not always being treated fairly in the environment, especially when a project faces a conflict - and they leave, as a means of self-protection; or even worse - are being forced out, if try to openly object the process.
+Women make up about half of the society, they are essential vector of a culture ever since, yet in free software projects, where digital infrastructure and common tools for all of us are designed and built\*, they represent only 3% of the contributors\*, in comparison to 7-23% in the industry [global\*\*-US\*\*\* data]. We believe, on top of other economical and social inequalities that limit women's participation in the space, it is because they are not always being treated fairly in the environment, especially when a project faces a conflict - and they leave, as a means of self-protection; or are being forced out, if they try to openly object the process.
 
 Here we **[document](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/personal-stories) the process of leaving** and **[advocate](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/solutions) for non-discrimination and fair conflicts resolution**, acknowledging everyones inalienable rights and needs as a human being, in the digital space of free software communities.
 
@@ -15,7 +15,7 @@ We believe, creating this common ground of everyone's inalienable rights being r
 You can help this project by:
 
 - adding your testimonial to the [Personal stories](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/personal-stories) directory \
-   With a pull request or by sending us a file to be uploaded anonymously.
+   With a pull request or by sending us a file to be uploaded anonymously. Please give projects and people fake names.
    - consider also adding the project(s) that made you leave to the [Wall of shame](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/wall-of-shame) directory \
    An empty file named after the project would be enough, we'll make you an owner of that file.
 
