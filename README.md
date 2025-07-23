@@ -6,7 +6,7 @@ Here we **[document](https://github.com/OneWomanLess/OneWomanLess.github.io/tree
 
 We also intend to **[collect and provide]({% link get-help.md %}) some basic resources** for individuals who currently are or recently experienced **mobbing**.
 
-We believe, creating this common ground of everyone's inalienable rights being respected (in the digital space as well as elsewhere), is the only way for the humanity where woman are valued equally to man, and everyone in between. So we can all equally enjoy our lifes.
+We believe, creating this common ground of everyone's inalienable rights and freedoms being respected (in the digital space as well as elsewhere), is the only way for the humanity where woman are valued equally to man, and everyone in between. So we can all equally enjoy our lifes.
 
 `#digital-dignity` `#coding-with-dignity`
 
