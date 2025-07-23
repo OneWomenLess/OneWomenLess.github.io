@@ -1,4 +1,4 @@
-You may want to read our [Open Letter]({% link open-letter.md %}).
+You may want to read and sign our [Open Letter]({% link open-letter.md %}).
 
 Women make up about half of a society and the population, and they tend to be pivotal vector for transfer of cultural values and norms since forever. Yet in free software projects, where digital infrastructure and common tools for all of us are designed and built\*, they represent only 3% of the contributors\*, compared to 7-23% in the industry [global\*\*-US\*\*\* data]. We believe, on top of other economical and social inequalities that limit women's participation in the space, it is because they are not always being treated fairly in the environment, especially when faced with a conflict - and they leave, as a means of self-protection; or are being forced out, if they openly object the process.
 
