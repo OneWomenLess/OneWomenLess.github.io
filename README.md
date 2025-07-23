@@ -1,12 +1,12 @@
 You may want to read our [Open Letter]({% link open-letter.md %}).
 
-Women has been pivotal for transfer of cultural values and norms since forever, they also make up about half of a society, yet in free software projects, where digital infrastructure and common tools for all of us are designed and built\*, they represent only 3% of the contributors\*, in comparison to 7-23% in the industry [global\*\*-US\*\*\* data]. We believe, on top of other economical and social inequalities that limit women's participation in the space, it is because they are not always being treated fairly in the environment, especially when a project faces a conflict - and they leave, as a means of self-protection; or are being forced out, if they try to openly object the process.
+Women make up about half of a society and the population, and they tend to be pivotal vector for transfer of cultural values and norms since forever. Yet in free software projects, where digital infrastructure and common tools for all of us are designed and built\*, they represent only 3% of the contributors\*, compared to 7-23% in the industry [global\*\*-US\*\*\* data]. We believe, on top of other economical and social inequalities that limit women's participation in the space, it is because they are not always being treated fairly in the environment, especially when faced with a conflict - and they leave, as a means of self-protection; or are being forced out, if they openly object the process.
 
-Here we **[document](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/personal-stories) the process of leaving** and **[advocate](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/solutions) for non-discrimination and fair conflicts resolution**, acknowledging everyones inalienable rights and needs as a human being, in the digital space of free software communities.
+Here we **[document](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/personal-stories) the process of leaving** and **[advocate](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/solutions) for non-discrimination** and **fair conflicts resolution**, acknowledging everyones inalienable rights and needs as a human being, as stated by the [Universal Declaration of Human Rights](https://www.un.org/en/global-issues/human-rights), in the digital space of free software communities.
 
-We also **[collect and provide]({% link get-help.md %}) some basic resources** for individuals who are currently or recently experienced **mobbing**.
+We also intend to **[collect and provide]({% link get-help.md %}) some basic resources** for individuals who currently are or recently experienced **mobbing**.
 
-We believe, creating this common ground of everyone's inalienable rights being respected, is the only way for the humanity where woman are valued equally to man, and everyone in between.
+We believe, creating this common ground of everyone's inalienable rights being respected (in the digital space as well as elsewhere), is the only way for the humanity where woman are valued equally to man, and everyone in between. So we can all equally enjoy our lifes.
 
 `#digital-dignity` `#coding-with-dignity`
 
