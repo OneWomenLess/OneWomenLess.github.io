@@ -34,7 +34,7 @@ You can help this project by:
 
 - analysing [2024 OpenSource Survey](https://opensourcesurvey.org/2024/) demographics data (we used data from the 2017 year)
 
-- donating to [Majstrownia makerspace](https://opencollective.com/majstrownia/projects/digital-commons) for the project spendings, or [buing a coffee](https://liberapay.com/mariha) for the project lead
+- donating to [Majstrownia makerspace](https://opencollective.com/majstrownia/projects/digital-commons) for the project spendings, or [buing a coffee](https://liberapay.com/mariha) for the project instigator
 
 - rephrasing website content into proper English
 
