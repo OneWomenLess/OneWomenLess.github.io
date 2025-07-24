@@ -42,9 +42,32 @@ You can help this project by:
 
 You can contact us by reaching out in the [matrix room](https://matrix.to/#/#human-rights-in-foss:matrix.org) or by writing directly to [@mariha](https://github.com/mariha).
 
+
+#### Getting paid €€€
+
+You may want to work on the project just because it is important and for a reward it gives to do something good for the humanity / to stop the violence. 
+However, it may also be possible to get paid for working on the project.
+
+Please check the Next Generation Internet Zero grant programmes at nlNet, with open calls every two months:
+> [NGI0 Commons Found](https://nlnet.nl/commonsfund/) \
+> Reclaim the public nature of the internet
+> 
+> Small and medium-sized R&D grants between 5.000 and 50.000 euro, with the possibility to scale up.
+
+You can apply individually and we may as Majstrownia as well.
+
+.
+
+FINAL NOTE: Effective _conflict-resolution mechanisms_ (rapid access, low-cost, local and obviously - fair) are one of the design principles\*\*\*\*\* of long-enduring common-pool resources that [Elinor Ostrom](https://en.m.wikipedia.org/w/index.php?title=Elinor_Ostrom) formulated, based on her lifelong studies. She was awarded Nobel Prize in economy for her work on commons governance. If we want FOSS projects environment to be sustainable, this gives **research-based justification** for the project.
+
 ---
 
-\* [https://opensourcesurvey.org/2017/](https://opensourcesurvey.org/2017/) (data on demographics, conflicts, foss consumption) \
-\*\* [https://survey.stackoverflow.co/2017#demographics](https://survey.stackoverflow.co/2017#demographics) \
-\*\*\* [https://en.wikipedia.org/wiki/Diversity_in_open-source_software#Diversity](https://en.wikipedia.org/wiki/Diversity_in_open-source_software#Diversity) \
+\* [https://opensourcesurvey.org/2017/](https://opensourcesurvey.org/2017/) (data on demographics, conflicts, foss consumption)
+
+\*\* [https://survey.stackoverflow.co/2017#demographics](https://survey.stackoverflow.co/2017#demographics)
+
+\*\*\* [https://en.wikipedia.org/wiki/Diversity_in_open-source_software#Diversity](https://en.wikipedia.org/wiki/Diversity_in_open-source_software#Diversity)
+
 \*\*\*\* [Human Rights as a Global Issue, United Nations](https://www.un.org/en/global-issues/human-rights)
+
+\*\*\*\*\* Ostrom, Elinor (1990). Governing the Commons: The Evolution of Institutions for Collective Action. Cambridge University Press. [pp. 88–102](https://gist.github.com/mariha/a0a22c36d96d83c7ed47b1f246381c95). ISBN 978-0-521-40599-7.
