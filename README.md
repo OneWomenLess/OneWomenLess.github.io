@@ -54,11 +54,9 @@ Please check the Next Generation Internet Zero grant programmes at nlNet, with o
 > 
 > Small and medium-sized R&D grants between 5.000 and 50.000 euro, with the possibility to scale up.
 
-You can apply individually and we may as Majstrownia as well.
-
 .
 
-FINAL NOTE: Effective _conflict-resolution mechanisms_ (rapid access, low-cost, local and obviously - fair) are one of the design principles\*\*\*\*\* of long-enduring common-pool resources that [Elinor Ostrom](https://en.m.wikipedia.org/w/index.php?title=Elinor_Ostrom) formulated, based on her lifelong studies. She was awarded Nobel Prize in economy for her work on commons governance. If we want FOSS projects environment to be sustainable, this gives **research-based justification** for the project.
+Effective _Conflict-resolution mechanisms_ is one of the design principles\*\*\*\*\* of long-enduring common-pool resources that Elinor Ostrom formulated, based on her lifelong studies on commons governance. She was awarded Nobel Prize in economy for her work on that. If we want FOSS projects environment to be sustainable, this gives **research-based justification** for the project.
 
 ---
 
