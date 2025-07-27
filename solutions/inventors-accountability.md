@@ -22,7 +22,7 @@ _Looking for a lawyer to consult the case with them. \
 Even the greatest invention may need a correction._
 
 As a compansation of harms:
-- an obligation on ODI, lead by Sir Tim, to make a worldwide educational campaign about negative social aspects of the Internet - online violence. Lack of empaty in remote interactions, leading to dehumanisation - as the pain on the other side is very real, despite the distance. Lack of natural 'stop' condition for someone's else suffering, an evolutionary self-regulation mechanism for any activity/behaviour before it becoming a norm, including new technological inventions and their (potentially initially unintended) social usages - SoLiD stands from Social Linked Data.
+- an obligation on ODI, lead by Sir Tim, to make a worldwide educational campaign about negative social aspects of the Internet - online violence. Lack of empaty in remote interactions, leading to dehumanisation - as the pain on the other side is very real, despite the distance, and it gets normalised. Lack of natural 'stop' condition for someone's else suffering, an evolutionary self-regulation mechanism for any activity/behaviour before it becoming a norm, including new technological inventions and their (potentially initially unintended) social usages - SoLiD stands from Social Linked Data.
 In-particular online violence against women and girls - as (apparently!) they happened to be less valued by the society and people allow themselves to lower standards of behaviours when interacting with them. 
 
 + an obligation on W3C on standardisation for online communities (see solutions/standards) encoding human rights / accounting for human dignity, especially and including minorities, all and any.
