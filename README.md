@@ -25,7 +25,7 @@ You can help this project by:
    An empty file named after the project would be enough, we'll make you an owner of that file.
 
 - proposing a solution in the [Solutions](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/solutions) directory \
-   or if you know of an exemplary model project environments, adding them to the [Wall of fame](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/wall-of-fame).
+   - if you know of a model project environment(s), add them to the [Wall of fame](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/wall-of-fame) directory.
 
 - forwarding to others who have a story to tell or may be interested otherwise
 
