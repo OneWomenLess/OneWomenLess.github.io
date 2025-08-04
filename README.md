@@ -2,7 +2,7 @@ Women make up about half of a society and the population, and they tend to be pi
 
 We believe, on top of other economical and social inequalities that limit women's participation in the space, it is because they are not always being treated fairly in the environment, especially when faced with a conflict - and they leave, as a means of self-protection; or are being forced out, if they openly object the process.
 
-Here we **[document](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/personal-stories) the process of leaving** and **[advocate](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/solutions) for non-discrimination** and **fair conflicts resolution**, acknowledging everyones inalienable rights\*\*\*\* and needs as a human being, in the digital space of free software communities.
+Here we **[document](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/personal-stories) the process of leaving** and **[advocate](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/solutions) for non-discrimination and fair conflicts resolution**, acknowledging everyones inalienable rights\*\*\*\* and needs as a human being, in the digital space of free software communities.
 
 We also intend to **[collect and provide]({% link get-help.md %}) some basic resources** for individuals who currently are or recently experienced **mobbing**.
 
@@ -24,7 +24,8 @@ You can help this project by:
    - consider also adding the project(s) that made you leave to the [Wall of shame](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/wall-of-shame) directory \
    An empty file named after the project would be enough, we'll make you an owner of that file.
 
-- proposing a solution in the [Solutions](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/solutions) directory
+- proposing a solution in the [Solutions](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/solutions) directory \
+   or if you know of an exemplary model project environments, adding them to the [Wall of fame](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/wall-of-fame).
 
 - forwarding to others who have a story to tell or may be interested otherwise
 
