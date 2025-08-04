@@ -2,7 +2,7 @@ Women make up about half of a society and the population, and they tend to be pi
 
 We believe, on top of other economical and social inequalities that limit women's participation in the space, it is because they are not always being treated fairly in the environment, especially when faced with a conflict - and they leave, as a means of self-protection; or are being forced out, if they openly object the process.
 
-Here we **[document](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/personal-stories) the process of leaving** and **[advocate](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/solutions) for non-discrimination and fair conflicts resolution**, acknowledging everyones inalienable rights\*\*\*\* and needs as a human being, in the digital space of free software communities.
+Here we **[document](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/personal-stories) the process of leaving** and **[advocate](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/solutions) for non-discrimination** and **fair conflicts resolution**, acknowledging everyones inalienable rights\*\*\*\* and needs as a human being, in the digital space of free software communities.
 
 We also intend to **[collect and provide]({% link get-help.md %}) some basic resources** for individuals who currently are or recently experienced **mobbing**.
 
