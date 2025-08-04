@@ -24,8 +24,8 @@ You can help this project by:
    - consider also adding the project(s) that made you leave to the [Wall of shame](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/wall-of-shame) directory \
    An empty file named after the project would be enough, we'll make you an owner of that file.
 
-- proposing a solution in the [Solutions](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/solutions) directory \
-   - if you know of a model project environment(s), add them to the [Wall of fame](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/wall-of-fame) directory.
+- proposing a solution in the [Solutions](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/solutions) directory
+   - if you know of a model project environment(s), by describing them in the [Wall of fame](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/wall-of-fame) directory.
 
 - forwarding to others who have a story to tell or may be interested otherwise
 
