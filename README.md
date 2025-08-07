@@ -1,3 +1,7 @@
+ * * * this project is looking for an owner * * *
+
+---
+
 Women make up about half of a society and the population, and they tend to be pivotal vector for transfer of cultural values and norms since forever. Yet in free and open source software projects, where digital infrastructure and common tools for all of us are designed and made\*, they represent only 3% of the developers and contributors\*, compared to 7-23% in the software industry [global\*\*-US\*\*\* data]. 
 
 We believe, on top of other economical and social inequalities that limit women's participation in the space, it is because they are not always being treated fairly in the environment, especially when faced with a conflict - and they leave, as a means of self-protection; or are being forced out, if they openly object the process. This may take a form of depriving comments and other micro-aggressions, silently accepted by everyone around; and occasional seriousy harmful power-abuse related issues with [no legal structure](https://onewomanless.github.io/solutions/legal-structure) in FOSS to keep others accountable to it and defend oneself against them.
