@@ -33,7 +33,7 @@ You can help this project by:
 
 - forwarding to others who have a story to tell or may be interested otherwise
 
-- exploring and expanding on drafted [solutions](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/solutions) and options of [getting help]({% link get-help.md %}).
+- exploring and expanding on drafted [solutions](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/solutions) and options of [getting help]({% link get-help.md %})
 
 - helping with the graphics / web ui
 
@@ -41,7 +41,7 @@ You can help this project by:
 
 - analysing [2024 OpenSource Survey](https://opensourcesurvey.org/2024/) demographics data (we used data from the 2017 year)
 
-- donating to [Majstrownia makerspace](https://opencollective.com/majstrownia/projects/digital-commons) for the project spendings, or [sending Kudos](https://github.com/mariha) for the project instigator.
+- donating to [Majstrownia makerspace](https://opencollective.com/majstrownia/projects/digital-commons) for the project spendings
 
 - rephrasing website content into proper English
 
