@@ -1,4 +1,4 @@
- * * * this project is looking for an owner * * *
+* this project is looking for an owner *
 
 ---
 
