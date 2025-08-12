@@ -34,7 +34,7 @@ _If you are a lawyer you are welcome to take the case. Mariha can provide all th
 
 As a compansation of harms (proposition):
 
-- actions towards gender equality in free software development
+- actions towards gender equality in free software development, in particular women anti-discrimination
 
 - an obligation on ODI, to make a worldwide educational campaign about negative social aspects of the Internet - online violence. Lack of empaty in remote interactions, leading to dehumanisation - as the pain on the other side is very real, despite the distance, and it gets normalised. Lack of natural 'stop' condition for someone's else suffering, an evolutionary self-regulation mechanism for any activity/behaviour before it becoming a norm, including new technological inventions and their (potentially initially unintended) social usages - however, SoLiD stands from Social Linked Data.
 In-particular online violence against women and girls - as (apparently!) they seem to be less valued by the society and people allow themselves to lower standards of behaviours when interacting with them. 
