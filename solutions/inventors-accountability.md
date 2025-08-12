@@ -46,6 +46,6 @@ As a compansation of harms (proposition):
 In-particular online violence against women and girls - as (apparently!) they seem to be less valued by the society and people allow themselves to lower standards of behaviours when interacting with them.\
 See also: https://www.standbymeproject.eu/
 
-+ an obligation on W3C on [standardisation]({% link solutions/standards.md %}) for online communities, including free software communities encoding human rights / accounting for human dignity / non-discrimination, especially and including minorities, all and any.
++ an obligation on W3C on [standardisation]({% link solutions/standards.md %}) for online communities, including free software communities to encode human rights / account for human dignity / non-discrimination.
 
 
