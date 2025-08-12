@@ -1,9 +1,22 @@
+## Break circuits of power
+
 For mobbing and bullying.
 
 But how? 
 
-auto-translated from [this](https://welovedevs.com/fr/articles/la-moitie-des-femmes-dans-lit-quittent-leur-emploi-apres-35-ans/) article, in the context of corporate culture:
+Circuits of power: _An institutionalized system is both the result and a source of power. The original Circuits framework (Clegg 1989) is grounded in organizational theory and social sciences and integrates different perspectives on power. Each perspective unravels a different dimension of power that complements and enriches the others - hence it is a profound tool for analyzing a complex phenomenon such as power._
 
+**Institutional courage**: _an institution's commitment to seek the truth and engage in moral action, despite unpleasantness, risk, and short-term cost._
+
+**Moral courage**: _the ability to act rightly in the face of popular opposition, shame, scandal, discouragement, or personal loss._
+
+---
+
+An [article at PsychologyToday](https://www.psychologytoday.com/us/blog/bully-wise/202309/workplace-bullying-as-a-form-of-institutional-betrayal) describes workplace bullying as an **institutional betrayal** and encourages enacting **institutional courage** as a preventive strategy.
+
+---
+
+Auto-translated from an article ["La moitie des femmes dans lit quittent leur emploi apres 35 ans"](https://welovedevs.com/fr/articles/la-moitie-des-femmes-dans-lit-quittent-leur-emploi-apres-35-ans/), in the context of corporate culture:
 >
 > **Universalism as a lesser evil**
 >
@@ -22,4 +35,5 @@ auto-translated from [this](https://welovedevs.com/fr/articles/la-moitie-des-fem
 >
 > **Take action!**
 >
-> Let's be clear, *men occupy the space to speak on the subject today. So if you use it to minimize the problem, it's clearly because you're part of the problem*. And if you don't say anything, we don't know, we imagine that you're not on the right side. So take action, it's not complicated to say that Robert messed up. It's not even very complicated to go see Robert and tell him that he messed up. In the Mixed space, if there are 9 guys, one predator and 8 who don't say anything, it's sure that the problem will seem widespread. Whereas if there are one or two who take a stand against it, it's more of a cultural problem, but an issue that HR or management should have addressed earlier.
+> Let's be clear, *men occupy the space to speak on the subject today. So if you use it to minimize the problem, it's clearly because you're part of the problem*. And if you don't say anything, we don't know, we imagine that you're not on the right side. So take action, it's not complicated to say that Robert messed up. It's not even very complicated to go see Robert and tell him that he messed up. In the Mixed space, if there are 9 guys, one predator and 8 who don't say anything, it's sure that the problem will seem widespread. Whereas if there are one or two who **take a stand against it**, it's more of a cultural problem, but an issue that HR or management should have addressed earlier.
+
