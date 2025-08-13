@@ -8,10 +8,13 @@ _May be very useful, when EVERYTHING is being questioned._
 
 TODO: dictionary of common issues (connected to tags in the testimonials?)
 
-Also, in the knowledge zone:
+Also, in the **knowledge zone**:
 - [get to know the play and its characters](https://www.psychologytoday.com/us/blog/bully-wise/202105/workplace-bullying-is-a-play-meet-the-6-characters), an article at PsychologyToday
 - A podcast about [ostracisation in NGOs](https://audycje.tokfm.pl/podcast/139038,Ostracyzm-brzydki-spadek-po-pieknej-idei) (in polish)
 - A podcast about [cancel culture](https://audycje.tokfm.pl/podcast/151698,Kultura-uniewazniania-nie-jest-niczym-nowym-O-zjawisku-z-prof-Bilewiczem) (in polish)
+
+Resources about discrimination:
+- [awareness raising]({% link solutions/awareness-raising.md %}) solution
 
 #### A mediation?
 
