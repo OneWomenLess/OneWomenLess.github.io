@@ -21,8 +21,8 @@ Also, in the knowledge zone:
 #### Get legal advice?
 
 #### Mutual aid support groups?
-* Consider joining [Karrot's Forgotten People](https://karrot.world/#/group/551) group on [karrot.world](https://karrot.world), for being excluded from a flat structure, self-organized groups of people
-* 
+* Consider joining [Karrot's Forgotten People](https://karrot.world/#/group/551) group on [karrot.world](https://karrot.world), for being excluded/consented-out from a flat structure, self-organized groups of people
+* [Free software Duchesses in EU](https://matrix.to/#/#free-software-duchesses-eu:matrix.org) matrix group
 
 #### Consider getting professional emotional support.
 
@@ -47,7 +47,9 @@ Also, in the knowledge zone:
 >  _evolutionary and neuropsychological perspectives_
 >
 > ##### 4. How Does Ostracization Promote Conformity, Stifle Creativity, and Discourage Whistleblowing?
->  
+>
+> _effects on a work culture_
+> 
 >  To reestablish group membership, the high performer is pressured to play small or resign, perpetuating a stifling and sometimes toxic workplace culture.
 >  
 >  Employees who value justice and fairness over loyalty and conformity tend to be the ones who report abuse and violations of laws and ethics.
