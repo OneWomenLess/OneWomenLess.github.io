@@ -1,12 +1,13 @@
-    _\* \* \* this PROBLEM is looking for an OWNER \* \* \* \
-    Please forward to anyone who (and for whom it) may be relevant. \
-    Collective ownership is more than welcome!_
+    _\* \* \* this PROBLEM is looking for an OWNER \* \* \*_ 
+    
+    _Please forward to anyone who (and for whom it) may be relevant. \
+    Collective ownership is very welcome!_
 
 ---
 
 Women make up about half of a society and the population, and they tend to be pivotal vector for transfer of cultural values and norms since forever. Yet in free and open source software projects, where digital infrastructure and common tools for all of us are designed and made\*, they represent only 3% of the developers and contributors\*, compared to 7-23% in the software industry [global\*\*-US\*\*\* data]. 
 
-We believe, it is because they are not always being treated fairly in the environment, especially when faced with a conflict - and they leave, as an ultimate means of self-protection; or are being forced out, if they openly object the process. This takes a form of degrading comments, silently accepted by everyone around; and occasional seriousy harmful power-abusive acts with [no legal structure](https://onewomanless.github.io/solutions/legal-structure) in FOSS to keep others accountable to it and defend oneself against them with that structure.
+We believe, it is because they are not always being treated fairly in the environment, especially when faced with a conflict - and they leave, as an ultimate means of self-protection; or are being forced out, if they openly object the process. It is from ignorance, hard to notice by bystanders and silently accepted by everyone around, to occational seriousy harmful power-abusive acts with [no legal structure](https://onewomanless.github.io/solutions/legal-structure) in FOSS to keep others accountable to it and defend oneself against them with that structure.
 
 Here we **[document](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/personal-stories) the process of leaving** and **[advocate](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/solutions) for non-discrimination and fair conflicts resolution**, acknowledging everyones inalienable rights\*\*\*\* and needs as a human being, in the digital space of free software communities.
 
@@ -69,12 +70,12 @@ Effective _Conflict-resolution mechanisms_ is one of the design principles\*\*\*
 
 ---
 
-\* [https://opensourcesurvey.org/2017/](https://opensourcesurvey.org/2017/) (data on demographics, conflicts, foss consumption)
+\* [GitHub.com's Open Source survey, 2017](https://opensourcesurvey.org/2017/) (data on demographics, conflicts, FOSS consumption)
 
-\*\* [https://survey.stackoverflow.co/2017#demographics](https://survey.stackoverflow.co/2017#demographics)
+\*\* [StackOverflow.co survey, 2017](https://survey.stackoverflow.co/2017#demographics), demographics data
 
-\*\*\* [https://en.wikipedia.org/wiki/Diversity_in_open-source_software#Diversity](https://en.wikipedia.org/wiki/Diversity_in_open-source_software#Diversity)
+\*\*\* [Diversity in open-source software at Wikipedia.org](https://en.wikipedia.org/wiki/Diversity_in_open-source_software#Diversity)
 
-\*\*\*\* [Human Rights as a Global Issue, United Nations](https://www.un.org/en/global-issues/human-rights)
+\*\*\*\* [Universal Declaration of Human Rights, United Nations](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
 \*\*\*\*\* Ostrom, Elinor (1990). Governing the Commons: The Evolution of Institutions for Collective Action. Cambridge University Press. [pp. 88–102](https://gist.github.com/mariha/a0a22c36d96d83c7ed47b1f246381c95). ISBN 978-0-521-40599-7.
