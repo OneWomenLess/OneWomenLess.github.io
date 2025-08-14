@@ -1,4 +1,4 @@
-    _\* \* \* this PROBLEM is looking for an OWNER \* \* \*_ 
+    _\* \* \* there is a problem, and it is looking for an OWNER \* \* \*_ 
     
     _Please forward to anyone who (and for whom it) may be relevant. \
     Collective ownership is very welcome!_
@@ -7,7 +7,7 @@
 
 Women make up about half of a society and the population, and they tend to be pivotal vector for transfer of cultural values and norms since forever. Yet in free and open source software projects, where digital infrastructure and common tools for all of us are designed and made\*, they represent only 3% of the developers and contributors\*, compared to 7-23% in the software industry [global\*\*-US\*\*\* data]. 
 
-We believe, it is because they are not always being treated fairly in the environment, especially when faced with a conflict - and they leave, as an ultimate means of self-protection; or are being forced out, if they openly object the process. It is from ignorance, hard to notice by bystanders and silently accepted by everyone around, to occational seriousy harmful power-abusive acts with [no legal structure](https://onewomanless.github.io/solutions/legal-structure) in FOSS to keep others accountable to it and defend oneself against them with that structure.
+We believe, it is because they are not always being treated fairly in the environment, especially when faced with a conflict - and they leave, as an ultimate means of self-protection; or are being forced out, if they openly object the process. It goes from ignorance, hard to notice by bystanders and silently accepted by everyone around, to occational seriousy harmful power-abusive acts with [no legal structure](https://onewomanless.github.io/solutions/legal-structure) in FOSS to keep others accountable to it and defend oneself against them with that structure.
 
 Here we **[document](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/personal-stories) the process of leaving** and **[advocate](https://github.com/OneWomanLess/OneWomanLess.github.io/tree/main/solutions) for non-discrimination and fair conflicts resolution**, acknowledging everyones inalienable rights\*\*\*\* and needs as a human being, in the digital space of free software communities.
 
