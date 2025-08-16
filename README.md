@@ -1,5 +1,4 @@
-    _\* \* \* there is a problem, and it is looking for an OWNER \* \* \*_ 
-    
+    **This project** (and the underlying problem) **is looking for an OWNER.** \
     _Please forward to anyone who (and for whom it) may be relevant. \
     Collective ownership is very welcome!_
 
