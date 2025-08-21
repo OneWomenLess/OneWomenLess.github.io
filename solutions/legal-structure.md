@@ -21,7 +21,7 @@ It is known as _"The Tyranny of Structurelessness"_, after an essay by American 
 
 **Sexual harassment** is (?) also regulated by Labor Law (?). In a regular workplace, there are legal obligations related to prevention and response, that were established to create a safe and respectful work environment. _What about volunteering?_ 
 
-**Sexual assault** usually impossible to prove. Words against words. Implicit power with no accountability but much too loose, together with the reputation that fuels the authority and power that comes with it.
+**Sexual assault** usually impossible to prove. Words against words. Implicit power with no accountability but much too loose, together with the reputation that fuels the authority and power that comes with it. May happen at the intersection of online and offline. Ex. hospitality exchange is prone to that, as it creates perfect conditions.
 
 **Project misappropriation** - one person was told, by the umbrella organisation's Ombudsman, it was a mistake to make the other person a FOSS project co-admin (a common practice in anarchist, equal-power emphasising groups). But as I did, they moved the reposotory (with all references, the history, GH stars and followers) because they could.
 
