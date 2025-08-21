@@ -17,9 +17,11 @@ It is known as _"The Tyranny of Structurelessness"_, after an essay by American 
 
 **Mobbing** is regulated by Labour Law. In FOSS with no formal employment there is no protection from mobbing.
 
+**No common law**, every country has its own slightly different rules, every person is in a different country. What are the legal obligations for online communities?
+
 **Sexual harassment** is (?) also regulated by Labor Law (?). In a regular workplace, there are legal obligations related to prevention and response, that were established to create a safe and respectful work environment. _What about volunteering?_ 
 
-**No common law**, every country has its own rules. What are the legal obligations for online communities?
+**Sexual assault** usually impossible to prove. Words against words. Implicit power with no accountability but much too loose, together with the reputation that fuels the authority and power that comes with it.
 
 **Project misappropriation** - one person was told, by the umbrella organisation's Ombudsman, it was a mistake to make the other person a FOSS project co-admin (a common practice in anarchist, equal-power emphasising groups). But as I did, they moved the reposotory (with all references, the history, GH stars and followers) because they could.
 
