@@ -40,7 +40,7 @@ _If you are a lawyer you are welcome to take the case. Mariha can provide all th
 
 As a compansation of harms (proposition):
 
-- no contact from [mrkvon](https://mrkvon.org/blog/announcing-solidcouch/), who is a manipulator and blackmailer, with Mariha
+- no contact with Mariha from [mrkvon](https://mrkvon.org/blog/announcing-solidcouch/), who is a manipulator and (probably unintentional/unconscious) blackmailer (uses blackmailing to get what he wants, even if it's not his). A recommendation to see(k) a professional psychological help.
 
 - actions towards gender equality in free software development, in particular women anti-discrimination
 
